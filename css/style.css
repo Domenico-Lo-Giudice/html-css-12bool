@@ -1,0 +1,8 @@
+.box {
+    min-height: 120px;
+    line-height: 120px;
+    background-color: #006CFA;
+    text-align: center;
+    border: 1px solid white;
+}
+
